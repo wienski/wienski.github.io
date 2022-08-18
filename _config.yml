@@ -1,7 +1,6 @@
 theme: minima
 title: Yegor Wienski's blog
 
-# Minima variables
 twitter_username: mostwienski
 rss: rss
 
@@ -9,3 +8,5 @@ rss: rss
 twitter:
   username: chad_baldwin
   card: summary_large_image
+
+comments_repo: wienski/wienski.github.io
