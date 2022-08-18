@@ -11,4 +11,6 @@ plugins:
 twitter_username: mostwienski
 rss: RSS Feed
 
+
+show_excerpts: true # set to false to remove excerpts on the homepage
 comments_repo: wienski/wienski.github.io
