@@ -1,2 +1,11 @@
 theme: minima
 title: Yegor Wienski's blog
+
+# Minima variables
+twitter_username: mostwienski
+rss: rss
+
+# plugin: jekyll-seo-tag
+twitter:
+  username: chad_baldwin
+  card: summary_large_image
