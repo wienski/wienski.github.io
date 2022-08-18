@@ -1,5 +1,6 @@
 theme: minima
 title: Yegor Wienski's blog
+description: on programming languages, compilers, calculi and stuff
 
 plugins:
   - jekyll-feed
