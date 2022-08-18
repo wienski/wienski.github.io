@@ -1,5 +1,3 @@
-{% if site.paginate %}
-  <span>Paginator has {{ paginator.posts.size }} posts</span>
-{% else %}
-  <span>Site has {{ site.posts.size }} posts</span>
-{% endif %}
+Hello! I hope you find useful or at least entertaining things I post here.
+
+The main thing behind this blog is to discuss underappreciated or even obscure ideas in programming languages. Might post other things as well, tho.
