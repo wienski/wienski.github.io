@@ -1,7 +1,5 @@
 {% if site.paginate %}
-  {% assign posts = paginator.posts %}
-  <span>Paginator has {%- posts.size -%} posts</span>
+  <span>Paginator has {%- paginator.posts.size -%} posts</span>
 {% else %}
-  {% assign posts = site.posts %}
-  <span>Site has {%- posts.size -%} posts</span>
+  <span>Site has {%- site.posts.size -%} posts</span>
 {% endif %}
