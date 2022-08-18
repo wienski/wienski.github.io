@@ -1,1 +1,1 @@
-Here will be Yegor Wienski's blog.
+under construction
