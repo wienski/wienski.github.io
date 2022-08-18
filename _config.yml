@@ -1,5 +1,7 @@
 theme: minima
 title: Yegor Wienski's blog
+author: Yegor Wienski
+email: wienski@ya.ru
 description: on programming languages, compilers, calculi and stuff
 
 plugins:
